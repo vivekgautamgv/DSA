@@ -1,10 +1,10 @@
 import java.util.*;
-import java.util.scanner;
+import java.util.Scanner;
 
 public class segmented_sieve {
-    public static void main(String[].args){
+    public static void main(String[] args){
 
-
+        System.out.println("Vivek");
         
     }
 }
