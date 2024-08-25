@@ -6,5 +6,5 @@ public class Main {
 }
 
 public class simple_sieve {
-    
+    public static void main String.args()
 }
