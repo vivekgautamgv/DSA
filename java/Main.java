@@ -2,9 +2,7 @@ package java;
 import java.util.*;
 import java.util.Scanner;
 public class Main {
-    
-}
-
-public class simple_sieve {
-    public static void main String.args()
+    public static void main(String args[]){
+        
+    }
 }
