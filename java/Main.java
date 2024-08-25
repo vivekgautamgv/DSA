@@ -1,6 +1,6 @@
+package java;
 import java.util.*;
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         int n = 30; // find primes up to 30
