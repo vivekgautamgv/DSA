@@ -13,7 +13,7 @@ public class Main {
     }
 
     /**
-     * Calculates the factorial of a given number.
+     * Calculates the factorial of a given number
      *
      * @param n the input number
      * @return the factorial of n
