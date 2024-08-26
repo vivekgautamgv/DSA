@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 
 
-class maib {
+class main {
     public static int gcd(int a,int b){
         if(a==0){
             return b;
