@@ -11,9 +11,7 @@ public class toggle {
             count++;
         }
 
-        // Calculate the number of perfect squares up to n      (OR SIMPLY)
-        int openDoorsCount = (int) Math.sqrt(n);
-        
+      
         System.out.println(count);
     }
 }
